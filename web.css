@@ -49,3 +49,8 @@ nav ul li {
     display: inline;
     
 }
+
+nav ul {
+
+    padding-top: 5px;
+}
